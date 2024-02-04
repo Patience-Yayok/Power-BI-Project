@@ -1,5 +1,5 @@
 
-# Airlines-Dashboard
+# Data Professionals-Dashboard
 
 ### Dashboard Link :https://app.powerbi.com/groups/me/reports/2694329a-7784-4c9c-97c5-c07027d2f26f/ReportSection?experience=power-bi
 ## Problem Statement
